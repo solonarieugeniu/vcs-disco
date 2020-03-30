@@ -1,3 +1,3 @@
 # vcs-disco
 
-Spring Internship 2020
+Spring Internship 2020 (GIT)
